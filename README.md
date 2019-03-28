@@ -7,9 +7,9 @@
 
 ## 实现原理：
 * Tag: 每块PictureBox的附加数字信息，若n = 3，则初始状态为：   
-  [ 0 1 2 ]  
-  [ 3 4 5 ]  
-  [ 6 7 8 ]  
+       [ 0 1 2 ]  
+       [ 3 4 5 ]  
+       [ 6 7 8 ]  
 * 空白块：设置PictureBox的Visible = false
 * 图片交换：交换PictureBox的Image、Visible、以及Tag属性
 * 混淆矩阵：将空白块随机与周围的块替换
