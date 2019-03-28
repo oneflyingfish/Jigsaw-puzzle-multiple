@@ -1,0 +1,10 @@
+E:\freework\visual stdio build\C#\智力拼图多样版\智力拼图多样版\bin\Debug\智力拼图多样版.exe.config
+E:\freework\visual stdio build\C#\智力拼图多样版\智力拼图多样版\bin\Debug\智力拼图多样版.exe
+E:\freework\visual stdio build\C#\智力拼图多样版\智力拼图多样版\bin\Debug\智力拼图多样版.pdb
+E:\freework\visual stdio build\C#\智力拼图多样版\智力拼图多样版\obj\Debug\智力拼图多样版.csprojResolveAssemblyReference.cache
+E:\freework\visual stdio build\C#\智力拼图多样版\智力拼图多样版\obj\Debug\智力拼图多样版.Form1.resources
+E:\freework\visual stdio build\C#\智力拼图多样版\智力拼图多样版\obj\Debug\智力拼图多样版.Properties.Resources.resources
+E:\freework\visual stdio build\C#\智力拼图多样版\智力拼图多样版\obj\Debug\智力拼图多样版.csproj.GenerateResource.Cache
+E:\freework\visual stdio build\C#\智力拼图多样版\智力拼图多样版\obj\Debug\智力拼图多样版.csproj.CoreCompileInputs.cache
+E:\freework\visual stdio build\C#\智力拼图多样版\智力拼图多样版\obj\Debug\智力拼图多样版.exe
+E:\freework\visual stdio build\C#\智力拼图多样版\智力拼图多样版\obj\Debug\智力拼图多样版.pdb
